@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Shihan Guo
+bio: Stay True, Keep Leaning, and Enjoy Life
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -19,7 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://shihan-guo.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+linkedin: https://www.linkedin.com/in/shihanguoricky/
+github: https://github.com/Shihan-Guo
+email: shihan.guo@columbia.edu
 
 authors:
   johndoe:
