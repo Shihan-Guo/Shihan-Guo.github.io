@@ -17,7 +17,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: Resume/Shihan Guo Resume.pdf
 
 url: https://shihan-guo.github.io
 # your url: https://USERNAME.github.io
