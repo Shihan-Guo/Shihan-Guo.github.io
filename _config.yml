@@ -20,7 +20,7 @@ resume-external: true
 resume-url: Resume/Shihan Guo Resume.pdf
 
 base_url: /Shihan-Guo
-url: https://shihan-guo.github.io
+url: https://Shihan-Guo.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
