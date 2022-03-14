@@ -1,5 +1,5 @@
 ---
-title: "【Report Reading Series 1】US Stock–Bond Correlation"
+title: "Report Reading Series 1 | US Stock–Bond Correlation"
 layout: post
 date: 2022-03-13 23:10
 image: /assets/images/markdown.jpg
