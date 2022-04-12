@@ -48,7 +48,7 @@ description: US Stock–Bond Correlation What are the macroeconomic drivers?
 We could represent the prices of bonds and stocks using DCF model, where $CP$ is the fixed coupon payment, $FV$ is the face-value of the bond, $CF_t$ is the future stock cash flows, $BRP_t$ is the risk premium for bonds and $ERP_t$ is the risk premium for equities.   
 Based on the representations, we could decompose the covariance between stock and bond as follow:  
 <p align="center">
-    $cov_t \approx \gamma_1 var_t(\Delta_i) + \gamma_2 cov_t(\Delta CF, \Delta_i) + \gamma_3 cov_t(\Delta ERP, \Delta BRP) + \text{other terms} + \epsilon_t$
+    $\mathbf{cov_t \approx \gamma_1 var_t(\Delta_i) + \gamma_2 cov_t(\Delta CF, \Delta_i) + \gamma_3 cov_t(\Delta ERP, \Delta BRP) + \text{other terms} + \epsilon_t}$
 </p>
 
 
