@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 ---
 title: "Report Reading Series 1 | US Stock–Bond Correlation"
 layout: post
@@ -35,3 +47,4 @@ description: US Stock–Bond Correlation What are the macroeconomic drivers?
 	<img src="/assets/posts/US Stock-Bond Correlation/DCF.png" width="50%"/>
 </p>
 We could represent the prices of bonds and stocks using DCF model, where $CP$ is the fixed coupon payment, $FV$ is the face-value of the bond, $CF_t$ is the future stock cash flows, $BRP_t$ is the risk premium for bonds and $ERP_t$ is the risk premium for equities.  
+
