@@ -59,7 +59,7 @@ authors:
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 #width: large
-width: 1000px
+width: 80%
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
