@@ -23,7 +23,7 @@ description: US Stock–Bond Correlation What are the macroeconomic drivers?
 - Negative during 1950 - 1965
 
 <p align="center">
-	<img src="/assets/posts/US Stock-Bond Correlation/correlation.png" width="35%"/>
+	<img src="/assets/posts/US Stock-Bond Correlation/correlation.png" width="60%"/>
 </p>
 
 ### Macroeconomic Drivers
