@@ -1,3 +1,4 @@
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -23,7 +24,6 @@ category: blog
 author: Shihan Guo
 description: US Stock–Bond Correlation What are the macroeconomic drivers?
 ---
-
 # US Stock–Bond Correlation
 -----
 
@@ -46,5 +46,7 @@ description: US Stock–Bond Correlation What are the macroeconomic drivers?
 <p align="center">
 	<img src="/assets/posts/US Stock-Bond Correlation/DCF.png" width="50%"/>
 </p>
-We could represent the prices of bonds and stocks using DCF model, where $CP$ is the fixed coupon payment, $FV$ is the face-value of the bond, $CF_t$ is the future stock cash flows, $BRP_t$ is the risk premium for bonds and $ERP_t$ is the risk premium for equities.  
+We could represent the prices of bonds and stocks using DCF model, where $CP$ is the fixed coupon payment, $FV$ is the face-value of the bond, $CF_t$ is the future stock cash flows, $BRP_t$ is the risk premium for bonds and $ERP_t$ is the risk premium for equities.   
+Based on the representations, we could decompose the covariance between stock and bond as follow:  
+$cov_t \approx \gamma_1 var_t(\Delta_i) + \gamma_2 cov_t(\Delta CF, \Delta_i) + \gamma_3 cov_t(\Delta ERP, \Delta BRP) + \text{other terms} + \epsilon_t$
 
